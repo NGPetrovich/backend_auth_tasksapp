@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "backend_auth_app",
   "version": "1.0.0",
   "description": "AuthTest app",
   "main": "server.js",

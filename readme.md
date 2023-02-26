@@ -4,6 +4,8 @@ To get environmental secret key use physical book notes
 
 don't forget npm install before starting working.
 
-npm run client is for frontend
+there is a concurrently dev dependency that allows starting the whole thing with the command: npm run dev
 
-but there is a concurrently dev dependency that allows starting the whole thing with the command: npm run dev
+But frontend is separated and this command is not working.
+
+use separate repository for the frontend changes
